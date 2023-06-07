@@ -1,0 +1,21 @@
+{
+    "Name" : "Tienda",
+    "Town" : "LPGCYN",
+    "stock": [
+      {
+        "nombre": "Nike Jordan I",
+        "descripcion": "Zapatillas de baloncesto",
+        "precio": 109
+      },
+      {
+        "nombre": "Adidas Superstar",
+        "descripcion": "Zapatillas clásicas",
+        "precio": 89
+      },
+      {
+        "nombre": "Puma Suede",
+        "descripcion": "Zapatillas de estilo retro",
+        "precio": 79
+      }
+    ]
+  }
